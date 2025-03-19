@@ -1,5 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm Bhim!<br>💻 Passionate about software development and building efficient web applications.<br>🌱 Currently exploring ASP.NET MVC, Entity Framework, and AJAX.<br>🚀 Always eager to learn new technologies and improve my coding skills.<br>📫 Feel free to connect and collaborate on exciting projects!<br><br>
+# 👋 Hi, I'm Bhim!  
+🎯 Full Stack Developer | 💻 ASP.NET MVC | ⚡ Entity Framework | 🔄 AJAX  
+
+## 🚀 About Me  
+- 🔍 Exploring **ASP.NET MVC, Entity Framework, AJAX, and Microsoft SQL Server**  
+- 💡 Passionate about building **scalable web applications**  
+- 🎯 Currently working on **Internship Management & Student Clearance Systems**  
+
+## 🛠️ Tech Stack  
+- **Frameworks:** ASP.NET MVC, Entity Framework  
+- **Frontend:** JavaScript, jQuery, AJAX  
+- **Database:** Microsoft SQL Server  
+- **Version Control:** Git, GitHub  
+
 
 
 ## 🌐 Socials:
